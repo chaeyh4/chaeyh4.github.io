@@ -59,7 +59,7 @@ const config = {
       year: 'September 2022',
       link: 'https://example.com'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Sungkyunkwan University',
