@@ -55,7 +55,7 @@ const config = {
   certifications: [
     {
       name: '대한의료인공지능학회장상',
-      body: '',
+      body: '2023 의료인공지능 아이디어 경진대회',
       year: 'December 2023',
       link: ''
     },
