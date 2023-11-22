@@ -34,6 +34,9 @@ const config = {
   },
   skills: [
     'Python',
+    'TensorFlow',
+    'PyTorch',
+    'sklearn',
     'Java',
   ],
   experiences: [
