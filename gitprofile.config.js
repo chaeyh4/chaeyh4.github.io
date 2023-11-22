@@ -68,7 +68,7 @@ const config = {
       to: '2024',
     },
     {
-      institution: 'Girls' High School Attached to College of Education, Dongguk University',
+      institution: 'Girls High School Attached to College of Education, Dongguk University',
       degree: '',
       from: '2020',
       to: '2017',
