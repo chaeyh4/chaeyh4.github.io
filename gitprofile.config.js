@@ -88,8 +88,7 @@ const config = {
   externalProjects: [
     {
       title: '',
-      description:
-        '',
+      description: '',
       imageUrl: '',
       link: '',
     },
