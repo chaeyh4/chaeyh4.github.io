@@ -38,14 +38,14 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Medical Big Data Labatory',
+      company: 'Medical Big Data Labatory, Sungkyunkwan University',
       position: 'Intern',
       from: 'August 2023',
       to: 'Present',
       companyLink: 'https://sites.google.com/view/mbd-lab?usp=sharing',
     },
     {
-      company: 'Machine Learning Systems Lab',
+      company: 'Machine Learning Systems Lab, Sungkyunkwan University',
       position: 'Intern',
       from: 'December 2022',
       to: 'June 2023',
@@ -54,10 +54,16 @@ const config = {
   ],
   certifications: [
     {
+      name: '대한의료인공지능학회장상',
+      body: '',
+      year: 'December 2023',
+      link: ''
+    },
+    {
       name: 'ADsP',
       body: '',
       year: 'September 2022',
-      link: 'https://example.com'
+      link: ''
     },
   ],
   education: [
@@ -69,7 +75,7 @@ const config = {
     },
     {
       institution: 'Girls High School Attached to College of Education, Dongguk University',
-      degree: '',
+      degree: 'High School',
       from: '2020',
       to: '2017',
     },
