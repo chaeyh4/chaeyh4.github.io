@@ -72,15 +72,15 @@ const config = {
   education: [
     {
       institution: 'Sungkyunkwan University',
-      degree: 'Bachelor',
-      from: '2020',
+      degree: 'The Bachelor of Computer Science Engineering',
+      from: '2022',
       to: '2024',
     },
     {
-      institution: 'Girls High School Attached to College of Education, Dongguk University',
-      degree: 'High School',
+      institution: 'Sungkyunkwan University',
+      degree: 'The Bachelor of Library and Information Science',
       from: '2020',
-      to: '2017',
+      to: '2024',
     },
   ],
 
