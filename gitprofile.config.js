@@ -87,10 +87,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: '',
-      description: '',
-      imageUrl: '',
-      link: '',
+      title: 'Character Control by Smart Watch',
+      description: '#TimeSeries #Sensor #Classification #1dCNN',
+      imageUrl: 'https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/231a.svg',
+      link: 'https://www.notion.so/cyoonline/Smartwatch-Data-256152a8082f4079bd02b29ee93c6282?pvs=4',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
