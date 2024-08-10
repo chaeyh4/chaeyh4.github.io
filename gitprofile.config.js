@@ -44,7 +44,7 @@ const config = {
       company: 'Medical Big Data Labatory, Sungkyunkwan University',
       position: 'Intern',
       from: 'August 2023',
-      to: 'Present',
+      to: 'August 2024',
       companyLink: 'https://sites.google.com/view/mbd-lab?usp=sharing',
     },
     {
@@ -56,6 +56,12 @@ const config = {
     },
   ],
   certifications: [
+    {
+      name: 'SQLD',
+      body: '',
+      year: 'March 2024',
+      link: ''
+    },
     {
       name: '대한의료인공지능학회장상',
       body: '2023 의료인공지능 아이디어 경진대회',
@@ -70,6 +76,12 @@ const config = {
     },
   ],
   education: [
+    {
+      institution: 'Sungkyunkwan University',
+      degree: 'The Master of MetaBioHealth (Digital AI Health)',
+      from: '2024',
+      to: 'Present',
+    },
     {
       institution: 'Sungkyunkwan University',
       degree: 'The Bachelor of Computer Science Engineering',
