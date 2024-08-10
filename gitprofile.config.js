@@ -78,7 +78,7 @@ const config = {
   education: [
     {
       institution: 'Sungkyunkwan University',
-      degree: 'The Master of MetaBioHealth (Digital AI Health)',
+      degree: 'The Master of MetaBioHealth',
       from: '2024',
       to: 'Present',
     },
